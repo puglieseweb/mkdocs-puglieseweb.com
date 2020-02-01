@@ -1,0 +1,3 @@
+[submodule "docs/puglieseweb.com"]
+	path = docs/puglieseweb.com
+	url = https://github.com/puglieseweb/puglieseweb.com.git
